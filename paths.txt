@@ -1,0 +1,3 @@
+src_path=C:\\Users\\brand\\OneDrive\\Desktop\\source
+target_path=C:\\Users\\brand\\OneDrive\\Desktop\\target
+check_interval=5
